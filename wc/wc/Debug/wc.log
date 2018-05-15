@@ -1,0 +1,42 @@
+﻿生成启动时间为 2018/5/15 14:40:56。
+     1>项目“D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\wc\wc\wc.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\2-应用程序与软件\2-编程软件-VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt define.cpp extended.cpp fundamental.cpp main.cpp
+         main.cpp
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\main.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\main.cpp(44): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\main.cpp(47): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\main.cpp(48): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+         fundamental.cpp
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\fundamental.cpp(12): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\fundamental.cpp(27): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\fundamental.cpp(48): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+         extended.cpp
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\extended.cpp(24): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\extended.cpp(44): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(240): note: 参见“freopen”的声明
+         define.cpp
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\define.cpp(20): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\corecrt_io.h(439): note: 参见“access”的声明
+     1>d:\大学学习\学期4：软件工程基础\【结对项目】单词计数\vs项目\wc\wc\define.cpp(21): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\corecrt_io.h(439): note: 参见“access”的声明
+         正在生成代码...
+       Link:
+         E:\2-应用程序与软件\2-编程软件-VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\wc\Debug\wc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\wc\Debug\wc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\wc\Debug\wc.lib" /MACHINE:X86 Debug\define.obj
+         Debug\extended.obj
+         Debug\fundamental.obj
+         Debug\main.obj
+         wc.vcxproj -> D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\wc\Debug\wc.exe
+     1>已完成生成项目“D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\wc\wc\wc.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:01:18.38

@@ -1,0 +1,9 @@
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Debug\InterFace.csprojResolveAssemblyReference.cache
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Debug\InterFace.WordCount.resources
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Debug\InterFace.Properties.Resources.resources
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Debug\InterFace.csproj.GenerateResource.Cache
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\bin\Debug\WordCount.exe.config
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\bin\Debug\WordCount.exe
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\bin\Debug\WordCount.pdb
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Debug\WordCount.exe
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Debug\WordCount.pdb

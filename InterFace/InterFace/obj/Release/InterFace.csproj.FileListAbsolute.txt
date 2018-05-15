@@ -1,0 +1,17 @@
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\bin\Release\WordCount.exe.config
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\bin\Release\WordCount.exe
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\bin\Release\WordCount.pdb
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Release\InterFace.csprojResolveAssemblyReference.cache
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Release\InterFace.WordCount.resources
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Release\InterFace.Properties.Resources.resources
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Release\InterFace.csproj.GenerateResource.Cache
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Release\WordCount.exe
+C:\Users\Shuuichi\Desktop\STUDY\软件工程基础\结对项目\InterFace\InterFace\obj\Release\WordCount.pdb
+D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\InterFace\InterFace\bin\Release\WordCount.exe.config
+D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\InterFace\InterFace\obj\Release\WordCount.exe
+D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\InterFace\InterFace\obj\Release\WordCount.pdb
+D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\InterFace\InterFace\bin\Release\WordCount.exe
+D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\InterFace\InterFace\bin\Release\WordCount.pdb
+D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\InterFace\InterFace\obj\Release\InterFace.WordCount.resources
+D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\InterFace\InterFace\obj\Release\InterFace.Properties.Resources.resources
+D:\大学学习\学期4：软件工程基础\【结对项目】单词计数\VS项目\InterFace\InterFace\obj\Release\InterFace.csproj.GenerateResource.Cache
